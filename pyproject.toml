@@ -1,0 +1,8 @@
+[project]
+name = "playerctl-currently-playing"
+version = "0.1.0"
+description = "Display information about currently playing media"
+readme = "README.md"
+authors = [{ name = "James Carr" }]
+requires-python = ">=3.12"
+dependencies = ["argparse>=1.4.0"]
